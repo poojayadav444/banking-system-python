@@ -1,0 +1,26 @@
+def banking():
+#     balance = 0
+#     while True:
+#         choice = input("1.Deposit 2.Withdraw 3.Check Balance 4.Exit:")
+#         if choice == "1":
+#             amount = int(input("Deposit Amount:"))
+#             balance += amount
+#             print("Amount Deposited")
+#
+#         elif choice == "2":
+#             amount = int(input("Withdraw Amount:"))
+#             if amount <= balance:
+#                 balance -= amount
+#                 print("Amount Withdrawal:")
+#             else:
+#                 print("Insufficient Balance:")
+#
+#         elif choice == "3":
+#             print("Current Balance:" , balance)
+#
+#         elif choice == "4":
+#             break
+#         else:
+#             print("invalid:")
+#
+# banking()
